@@ -1,0 +1,23 @@
+# Dev environment
+pip
+autopep8
+
+# for using
+pandas
+dask
+polars
+fastexcel
+openpyxl
+matplotlib
+loguru
+icecream
+hvplot
+altair
+seaborn
+pytz
+rich
+snakeviz
+tuna
+austin
+pytest
+
