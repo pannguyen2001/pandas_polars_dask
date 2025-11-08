@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/machine-learning/how-to-add-an-average-line-to-plot-in-matplotlib/
+
+https://www.geeksforgeeks.org/data-visualization/box-plot-visualization-with-pandas-and-seaborn/
+
+https://www.geeksforgeeks.org/data-visualization/python-data-visualization-tutorial/
+
+https://www.geeksforgeeks.org/data-visualization/data-visualization-using-matplotlib/

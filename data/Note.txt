@@ -1,0 +1,12 @@
+data/_1_bronze data/sales_data_sample.xlsx: data for mini_prj_pandas.ipynb
+
+data/_1_bronze data/job_market_unemployment_trend_unzipped.zip_unzipped/job_market_unemployment_trends.csv : https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state
+
+data/_1_bronze data/Unemployment in America, Per US State_unzipped.zip_unzipped/Unemployment in America Per US State.csv: https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state
+
+data/_1_bronze data/Unemployment in America, Per US State_unzipped.zip_unzipped/Unemployment in America Per US State.csv
+
+for eda, data transform, visualize
+_1_Pandas/_eda.ipynb
+
+

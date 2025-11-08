@@ -1,0 +1,35 @@
+from 2025-4-16
+learn pandas, polar, dask and data analyst
+
+1. read data (larger file: 1 million rows), improve oerformance, have timer and logger, debunger, profilling,
+
+2. clean data
+3. enrich data
+4. transform data
+visualise
+report
+analyst
+ptich data
+
+1 pipeline:
+crawl data => storage => ETL/ELT => Data mining, OLAP,...
+
+to learn pandas, polar and dask, sometime other fun as rich, loguru, icecream, cProfile, tune, snakeviz....
+
+create venv
+python -m venv .venv
+run .venv: 
+source /home/user/pandas-polar-dask/.venv/bin/activate 
+run app.py: 
+python app.py
+
+
+https://docs.python.org/3/library/profile.html# 
+
+http://www.vrplumber.com/programming/runsnakerun/ 
+
+ https://jamesg.blog/2024/11/02/cprofile
+
+ https://www.linkedin.com/pulse/python-cprofile-appasaheb-salunke/ 
+
+ austin also a profile package
